@@ -1,77 +1,82 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ayan Majumdar
+
+# Username (this should match the folder name)
+authors:
+- admin
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
+# Role/position
+role: M.Sc. in Computer Science
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Saarland University
+  url: "https://saarland-informatics-campus.de/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests broadly encompass applications of machine learning in decision-making, NLP and ensuring the fairness, robustness and explainability of such systems. 
 
-# Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Fairness
+- Natural Language Processing
+- Robustness
+- Causality
+- Interpretability
 
-# Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc. in Computer Science
+    institution: Saarland University, Saarbrücken, Germany
+    year: ongoing
+  - course: B.Tech. in Electronics and Communication Engineering
+    institution: Heritage Institute of Technology, Kolkata, India
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:ayanmajumdar1992@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/ayanmaj1992
+#- icon: google-scholar
+#icon_pack: ai
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ayanmaj92
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
+  link: https://www.linkedin.com/in/ayan-92/
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: media/resume.pdf
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Researchers
+- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Masters student of Computer Science, currently studying at [Saarland University](https://saarland-informatics-campus.de/), Germany. I am also currently a research assistant and Master's thesis student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), working on fairness, explainability and robustness of machine learning systems. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently working on my Master's thesis with the [Networked Systems](https://people.mpi-sws.org/~gummadi/) Research Group. My thesis is supervised by Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/) and Prof. [Isabel Valera](https://ivaleram.github.io/). During my Masters, I have also worked extensively with Prof. [Dietrich Klakow](http://scholar.google.de/citations?user=_HtGYmoAAAAJ&hl=de) of the [Spoken Language Systems](https://www.lsv.uni-saarland.de/) group at Saarland University. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am interested in research topics that broadly encompass machine learning and its applications in consequential decision-making, natural language processing and vision. I am also very interested in the aspects of fairness, interpretability, robustness and privacy of the applications of such systems.
+
+I am currently looking for available PhD positions in order to work on challenging and interesting problems in my topics of interest.
