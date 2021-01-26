@@ -18,38 +18,39 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "5+ years experience in coding with Python and related libraries"
+  description = "5+ years experience in coding with Python and ML libraries"
   
  [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "ML/AI"
-  description = "Extensive experience through relevant coursework, projects and research work"
-  
-[[feature]]
-  icon = "balance-scale"
-  icon_pack = "fas"
-  name = "Fair/Explainable/Robust ML"
-  description = "Experience in related coursework, projects and research"
+  name = "Machine Learning and Theory"
+  description = "Experience through relevant coursework, projects and research work"
+
   
 [[feature]]
   icon = "language"
   icon_pack = "fas"
   name = "NLP"
-  description = "Some experience in related coursework and projects"
+  description = "Experience through relevant coursework, academic and industry projects"
   
  [[feature]]
-  icon = "chart-pie"
+  icon = "searchengin"
   icon_pack = "fas"
-  name = "Analytics & Visualization"
-  description = "Experience in performing basic data analysis on large datasets"
+  name = "Information Extraction and Retrieval"
+  description = "Experience through relevant coursework, projects and research work "
   
   
  [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Coding"
+  name = "Coding/Programming: R, Java, CPP"
   description = "Extensive experience in working on industrial and academic projects"
+  
+  [[feature]]
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "Version control and DevOps"
+  description = "Experience in performing basic code maintainence and automation "
   
 # Uncomment to use emoji icons.
 # [[feature]]
