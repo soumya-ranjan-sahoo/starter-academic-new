@@ -33,11 +33,7 @@ subtitle = ""
   name = "NLP"
   description = "Experience through relevant coursework, academic and industry projects"
   
- [[feature]]
-  icon = "searchengin"
-  icon_pack = "fas"
-  name = "Information Extraction and Retrieval"
-  description = "Experience through relevant coursework, projects and research work "
+
   
   
  [[feature]]
@@ -46,11 +42,7 @@ subtitle = ""
   name = "Coding/Programming: R, Java, CPP"
   description = "Extensive experience in working on industrial and academic projects"
   
-  [[feature]]
-  icon = "code-branch"
-  icon_pack = "fas"
-  name = "Version control and DevOps"
-  description = "Experience in performing basic code maintainence and automation "
+ 
   
 # Uncomment to use emoji icons.
 # [[feature]]
